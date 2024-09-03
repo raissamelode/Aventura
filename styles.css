@@ -1,1 +1,15 @@
-
+body{
+    background-color: darkred;
+    color: aliceblue;
+    font-family: "Sevillana", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: cornflowerblue;
+    color: azure;
+    font-family: "Sevillana", cursive;
+}
