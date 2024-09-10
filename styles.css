@@ -1,14 +1,31 @@
-body{
-    background-color: darkred;
-    color: aliceblue;
-    font-family: "Sevillana", cursive;
-    display: flex;
+body {
+    background-color: brown;
+    color:aliceblue;
+    font-family: "Nerko One", cursive;
+    display:flex;
     justify-content: center;
     align-items: center;
     height: 700px;
-    margin: 0;
+    margin:0;
 }
 button{
-    background-color: cornflowerblue;
-    color: azure;
-    font-family: "Sevillana", cursive;}
+    background-color: burlywood;
+    color: aliceblue;
+    font-family: "Nerko One", cursive;
+}
+
+.passo {
+    display:none;
+}
+.paaso.ativo {
+    display: block ;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+max-width: 90%;
+}
